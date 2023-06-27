@@ -2,6 +2,10 @@
 
 <div align="center">
 
+<h1>⚠️ 维护模式</h1>
+<p>Kitchen Theme 已经进入维护模式！</p>
+<p>建议使用 <a href="https://github.com/canisminor1990/sd-webui-lobe-theme" target="_blank" >Lobe Theme</a> 获取更多自定义功能。</p>
+
 <img width="160" src="https://gw.alipayobjects.com/mdn/rms_7d1485/afts/img/A*XDYxSJXBjjwAAAAAAAAAAAAAARQnAQ">
 
 <h1 align="center">Kitchen Theme</h1>
