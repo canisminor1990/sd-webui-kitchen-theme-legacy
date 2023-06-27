@@ -2,6 +2,11 @@
 
 <div align="center">
 
+<h1>⚠️ Maintenance Mode</h1>
+<p>Kitchen Theme has moved into maintenance mode!</p>
+<p>Recommend using <a href="https://github.com/canisminor1990/sd-webui-lobe-theme" target="_blank">Lobe Theme</a> for more custom features</p>
+
+
 <img width="160" src="https://gw.alipayobjects.com/mdn/rms_7d1485/afts/img/A*XDYxSJXBjjwAAAAAAAAAAAAAARQnAQ">
 
 <h1 align="center">Kitchen Theme</h1>
