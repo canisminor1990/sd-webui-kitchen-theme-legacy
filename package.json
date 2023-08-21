@@ -76,7 +76,7 @@
     "lucide-react": "^0",
     "object-to-css-variables": "^0",
     "polished": "^4",
-    "prettier": "^2",
+    "prettier": "^3",
     "query-string": "^8",
     "re-resizable": "^6",
     "react": "^18",
